@@ -1,0 +1,5 @@
+001|Algebra|40 horas|Jussara
+002|Programacao|80 horas|Paulo Manseira 
+003|Calculo|120 horas|Claudia
+004|Quimica Tecnologica|70 horas|Desconhecida
+

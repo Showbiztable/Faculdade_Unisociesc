@@ -1,0 +1,6 @@
+001|Lucas|lucas.arabites@hotmail.com|99656-4110
+002|Kakashi|hatake@bol.com|3421 - 2121
+003|Itachi|uchiha@gmail.com|5885 - 7231
+004|Shisui|sacrifico|3155 - 4992
+
+|Shisui|sacrifico|3155 - 4992

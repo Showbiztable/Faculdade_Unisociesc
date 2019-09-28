@@ -1,0 +1,7 @@
+001|Algebra|1|8.0
+002|Programacao|1|5.5
+003|Calculo|1|0.5
+004|Quimica Tecnologica|7.5
+
+|0.5
+001|001|01|10

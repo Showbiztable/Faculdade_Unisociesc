@@ -1,0 +1,6 @@
+01|Calabresa|R$ - 10.00
+02|Queijo|R$ - 05.00
+03|Portuguesa|R$ - 06.00
+04|Atum|R$ - 05.50
+05|Texmax|R$ - 15.00
+
