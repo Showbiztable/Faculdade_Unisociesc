@@ -1,0 +1,2 @@
+float no momento da declaração o que vem dentro do colchetes é o tamanho do vetor ex: float nota[10] para 0, 1, 2, 3, 4, 5, 6, 7, 8, 9;
+a leitura de um vetor é necessária atráves de uma estrutura de repetição (sempre será FOR) para caminhar entre os índices do seu vetor;
