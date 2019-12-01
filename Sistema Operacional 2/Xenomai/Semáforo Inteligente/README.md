@@ -1,4 +1,7 @@
-Os códigos fontes aqui foram desenvolvidos para funcionar na estrutura do RTOS Xenomai (kernel do Linux), utilizando uma máquina virtual para emulação (Oracle VM).
-Site da máquina virtual --> https://www.virtualbox.org/
-Site dos exercícios --> http://www.cs.ru.nl/lab/xenomai/
-Site da documentação do Xenomai --> https://xenomai.org/documentation/xenomai-3/html/xeno3prm/group__alchemy__task.html#ga03387550693c21d0223f739570ccd992
+Os cÃ³digos fontes aqui foram desenvolvidos para funcionar na estrutura do RTOS Xenomai (kernel do Linux), utilizando uma mÃ¡quina virtual para emulaÃ§Ã£o (Oracle VM).
+
+Site da mÃ¡quina virtual --> https://www.virtualbox.org/
+
+Site dos exercÃ­cios --> http://www.cs.ru.nl/lab/xenomai/
+
+Site da documentaÃ§Ã£o do Xenomai --> https://xenomai.org/documentation/xenomai-3/html/xeno3prm/group__alchemy__task.html#ga03387550693c21d0223f739570ccd992
